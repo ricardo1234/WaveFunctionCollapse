@@ -1,0 +1,188 @@
+[
+  {
+    "img": "./images/1.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 90,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 180,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 270,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      }
+    ]
+  },
+  {
+    "img": "./images/2.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 90,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      }
+    ]
+  },
+  {
+    "img": "./images/3.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 90,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 180,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 270,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      }
+    ]
+  },
+  {
+    "img": "./images/4.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      }
+    ]
+  },
+  {
+    "img": "./images/5.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      }
+    ]
+  },
+  {
+    "img": "./images/6.png",
+    "width": 20,
+    "height": 20,
+    "rotations": [
+      {
+        "rotationDegree": 0,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 1 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 90,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 1 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 180,
+        "sideRules": [
+          [ 2 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 1 ] /*Left*/
+        ]
+      },
+      {
+        "rotationDegree": 270,
+        "sideRules": [
+          [ 1 ], /*Top*/
+          [ 2 ], /*Rigth*/
+          [ 2 ], /*Bottom*/
+          [ 2 ] /*Left*/
+        ]
+      }
+    ]
+  }
+]
